@@ -46,8 +46,10 @@ To install the project dependencies, run the following command
 	- To build this crawler I used the following tools [wikipedia](https://pypi.org/project/wikipedia/) which is a MediaWiki API python wrapper and Beautifulsoup
 
 2. The intents examples are in `laliga_intents.md` where each intent example is written as the following example:
+```   
 	## intent:thankyou
-	- Thanks so much!
+	- Thanks so much
+```
 
 3. `core.py` contains the core of the chatbot as in `get_bot_response(message)` which returns the chatbot reply after recieving the user message		
 
