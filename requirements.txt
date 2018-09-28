@@ -1,0 +1,7 @@
+wikipedia
+numpy
+pandas
+Beautifulsoup4
+rasa_nlu
+spacy
+flask

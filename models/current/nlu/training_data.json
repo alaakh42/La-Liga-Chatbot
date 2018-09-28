@@ -1,0 +1,1689 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "hello!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "hi!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "hi there!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "good morning", 
+        "intent": "great"
+      }, 
+      {
+        "text": "good evening", 
+        "intent": "great"
+      }, 
+      {
+        "text": "good afternoon", 
+        "intent": "great"
+      }, 
+      {
+        "text": "morning", 
+        "intent": "great"
+      }, 
+      {
+        "text": "evening", 
+        "intent": "great"
+      }, 
+      {
+        "text": "afternoon", 
+        "intent": "great"
+      }, 
+      {
+        "text": "hey there!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "heey!", 
+        "intent": "great"
+      }, 
+      {
+        "text": "tell me something about the history of Alaves", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Athletic Bilbao", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Atlético Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Barcelona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Celta Vigo", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Eibar", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Espanyol", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Getafe", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Girona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Huesca", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Leganés", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Levante", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Rayo Vallecano", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Real Betis", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Real Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Real Sociedad", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Sevilla", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Valencia", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Valladolid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me something about the history of Villarreal", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Alaves", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Athletic Bilbao", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Atlético Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Barcelona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Celta Vigo", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Eibar", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Espanyol", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Getafe", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Girona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Huesca", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Leganés", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Levante", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Rayo Vallecano", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Real Betis", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Real Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Real Sociedad", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Sevilla", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Valencia", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Valladolid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "Can you tell me the history of Villarreal", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Alaves's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Athletic Bilbao's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Atlético Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Barcelona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Celta Vigo's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Eibar's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Espanyol's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Getafe's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Girona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Huesca's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Leganés's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Levante's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Rayo Vallecano's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Real Betis's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Real Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Real Sociedad's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Sevilla's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Valencia's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Valladolid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "do you know anything about Villarreal's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Alaves's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Athletic Bilbao's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Atlético Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Barcelona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Celta Vigo's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Eibar's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Espanyol's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Getafe's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Girona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Huesca's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Leganés's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Levante's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Rayo Vallecano's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Real Betis's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Real Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Real Sociedad's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Sevilla's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Valencia's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Valladolid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any info about Villarreal's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Alaves's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Athletic Bilbao's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Atlético Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Barcelona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Celta Vigo's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Eibar's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Espanyol's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Getafe's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Girona's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Huesca's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Leganés's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Levante's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Rayo Vallecano's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Real Betis's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Real Madrid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Real Sociedad's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Sevilla's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Valencia's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Valladolid's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "any information about Villarreal's history", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Alaves", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Athletic Bilbao", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Atlético Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Barcelona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Celta Vigo", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Eibar", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Espanyol", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Getafe", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Girona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Huesca", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Leganés", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Levante", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Rayo Vallecano", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Real Betis", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Real Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Real Sociedad", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Sevilla", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Valencia", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Valladolid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "talk me through the history of Villarreal", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Alaves", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Athletic Bilbao", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Atlético Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Barcelona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Celta Vigo", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Eibar", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Espanyol", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Getafe", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Girona", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Huesca", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Leganés", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Levante", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Rayo Vallecano", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Real Betis", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Real Madrid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Real Sociedad", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Sevilla", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Valencia", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Valladolid", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "state the short history of Villarreal", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Alaves?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Athletic Bilbao?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Atlético Madrid?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Barcelona?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Celta Vigo?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Eibar?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Espanyol?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Getafe?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Girona?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Huesca?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Leganés?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Levante?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Rayo Vallecano?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Real Betis?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Real Madrid?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Real Sociedad?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Sevilla?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Valencia?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Valladolid?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what is the story of Villarreal?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Alaves's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Athletic Bilbao's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Atlético Madrid's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Barcelona's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Celta Vigo's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Eibar's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Espanyol's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Getafe's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Girona's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Huesca's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Leganés's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Levante's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Rayo Vallecano's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Real Betis's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Real Madrid's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Real Sociedad's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Sevilla's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Valencia's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Valladolid's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me more about Villarreal's histroy", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Alaves's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Athletic Bilbao's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Atlético Madrid's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Barcelona's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Celta Vigo's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Eibar's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Espanyol's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Getafe's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Girona's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Huesca's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Leganés's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Levante's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Rayo Vallecano's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Real Betis's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Real Madrid's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Real Sociedad's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Sevilla's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Valencia's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Valladolid's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about Villarreal's past", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Alaves team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Athletic Bilbao team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Atlético Madrid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Barcelona team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Celta Vigo team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Eibar team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Espanyol team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Getafe team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Girona team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Huesca team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Leganés team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Levante team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Rayo Vallecano team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Real Betis team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Real Madrid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Real Sociedad team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Sevilla team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Valencia team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Valladolid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the beginning of the Villarreal team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Alaves was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Athletic Bilbao was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Atlético Madrid was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Barcelona was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Celta Vigo was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Eibar was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Espanyol was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Getafe was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Girona was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Huesca was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Leganés was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Levante was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Rayo Vallecano was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Real Betis was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Real Madrid was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Real Sociedad was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Sevilla was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Valencia was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Valladolid was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "how Villarreal was started?", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Alaves team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Athletic Bilbao team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Atlético Madrid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Barcelona team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Celta Vigo team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Eibar team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Espanyol team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Getafe team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Girona team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Huesca team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Leganés team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Levante team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Rayo Vallecano team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Real Betis team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Real Madrid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Real Sociedad team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Sevilla team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Valencia team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Valladolid team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "tell me about the foundation of the Villarreal team", 
+        "intent": "laliga_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Alaves?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Athletic Bilbao?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Atlético Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Barcelona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Celta Vigo?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Eibar?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Espanyol?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Getafe?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Girona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Huesca?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Leganés?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Levante?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Rayo Vallecano?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Real Betis?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Real Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Real Sociedad?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Sevilla?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Valencia?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Valladolid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "what do you know about the city of Villarreal?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Alaves?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Athletic Bilbao?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Atlético Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Barcelona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Celta Vigo?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Eibar?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Espanyol?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Getafe?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Girona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Huesca?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Leganés?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Levante?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Rayo Vallecano?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Real Betis?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Real Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Real Sociedad?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Sevilla?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Valencia?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Valladolid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "can you tell me more about the city of Villarreal?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Alaves", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Athletic Bilbao", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Atlético Madrid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Barcelona", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Celta Vigo", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Eibar", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Espanyol", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Getafe", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Girona", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Huesca", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Leganés", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Levante", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Rayo Vallecano", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Real Betis", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Real Madrid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Real Sociedad", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Sevilla", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Valencia", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Valladolid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me something about the city of Villarreal", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Alaves?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Athletic Bilbao?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Atlético Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Barcelona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Celta Vigo?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Eibar?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Espanyol?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Getafe?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Girona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Huesca?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Leganés?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Levante?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Rayo Vallecano?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Real Betis?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Real Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Real Sociedad?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Sevilla?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Valencia?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Valladolid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "do you know anything about the city of Villarreal?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Alaves", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Athletic Bilbao", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Atlético Madrid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Barcelona", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Celta Vigo", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Eibar", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Espanyol", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Getafe", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Girona", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Huesca", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Leganés", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Levante", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Rayo Vallecano", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Real Betis", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Real Madrid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Real Sociedad", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Sevilla", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Valencia", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Valladolid", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me more about the city of Villarreal", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Alaves?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Athletic Bilbao?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Atlético Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Barcelona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Celta Vigo?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Eibar?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Espanyol?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Getafe?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Girona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Huesca?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Leganés?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Levante?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Rayo Vallecano?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Real Betis?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Real Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Real Sociedad?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Sevilla?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Valencia?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Valladolid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "any information about the city of Villarreal?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "thanks!", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thank you", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thx", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thanks very much", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thanks so much", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "very appreciated", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "appreciate it", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "i really appreciate it", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "nice effort", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "really appreciate it", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thanks a bunch", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thanks you’re awesome", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "thanks a lot", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "you shouldn’t have", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "i don’t know what to say", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "that’s very kind", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "i don’t know what to say, thank you", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "that’s very kind, thank you", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "you’re the best. Thanks so much", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "what would i do without you, You’re wonderful", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "you’re wonderful", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "i can’t thank you enough", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "to say thank you is not enough", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "many thanks", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "truly appreciate it", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "cannot thank you enough", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "i’m eternally grateful", 
+        "intent": "thankyou"
+      }, 
+      {
+        "text": "am really grateful", 
+        "intent": "thankyou"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": [], 
+    "lookup_tables": []
+  }
+}
