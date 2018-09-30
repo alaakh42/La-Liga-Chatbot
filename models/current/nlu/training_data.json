@@ -1582,6 +1582,10 @@
         "intent": "thankyou"
       }, 
       {
+        "text": "no, thanks!", 
+        "intent": "thankyou"
+      }, 
+      {
         "text": "thanks very much", 
         "intent": "thankyou"
       }, 
@@ -1655,10 +1659,6 @@
       }, 
       {
         "text": "i can’t thank you enough", 
-        "intent": "thankyou"
-      }, 
-      {
-        "text": "to say thank you is not enough", 
         "intent": "thankyou"
       }, 
       {

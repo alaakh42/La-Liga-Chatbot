@@ -402,6 +402,7 @@
 - thanks!
 - thank you
 - thx
+- no, thanks!
 - thanks very much
 - thanks so much
 - very appreciated
@@ -421,7 +422,6 @@
 - what would i do without you, You’re wonderful
 - you’re wonderful
 - i can’t thank you enough
-- to say thank you is not enough
 - many thanks
 - truly appreciate it
 - cannot thank you enough 

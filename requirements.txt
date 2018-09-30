@@ -5,3 +5,4 @@ Beautifulsoup4
 rasa_nlu
 spacy
 flask
+pymessenger

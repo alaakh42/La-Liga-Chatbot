@@ -9,6 +9,19 @@ This chatbot can have a comprehensive conversation with the user while giving hi
 To install the project dependencies, run the following command
 	`sudo -H pip install -r requirements.txt`
 
+
+## Getting Started
+
+1. Run Flask Server `python app.py`, remember to change `app.run(port=8888, debug=True)` to your port number
+
+2. Run ngrok `ngrok http 8888`
+	- optionally you can open ngrok web interface `http://127.0.0.1:4042/inspect/http` to keep an eye on the GET and POST requests
+
+## Chatbot Testing
+
+3. Start testing the La Liga Chatbot. Join this [page](https://www.facebook.com/La-Liga-Chatbot-Page-468645753642557/) and start chatting! Hope you enjoy it!
+
+
 ## Details
 
 1. Crawl the teams data by following the links of each team's wikipedia page in the [La Liga wikipedia page](https://en.wikipedia.org/wiki/La_Liga?oldformat=true)
@@ -18,7 +31,7 @@ To install the project dependencies, run the following command
 	- `laliga_questions`: User's questions about the history of La Liga Clubs
 	- `city_questions`: User's questions about the city
 	- `thankyou`: User is thanking the bot
-	_Note_: That we could add as much intents as we want, this is something you decide based on the domain of your chatbot 
+	__Note__: That we could add as much intents as we want, this is something you decide based on the domain of your chatbot 
 
 3. Define the configuration of the [Rasa NLU pipeline](https://rasa.com/docs/nlu/choosing_pipeline/) in the `laliga_intents_config.yml` , I defined my NLU pipeline that builds the intent classifier as following:
 	- Message Tokenization
@@ -46,14 +59,19 @@ To install the project dependencies, run the following command
 	- To build this crawler I used the following tools [wikipedia](https://pypi.org/project/wikipedia/) which is a MediaWiki API python wrapper and Beautifulsoup
 
 2. The intents examples are in `laliga_intents.md` where each intent example is written as the following example:
-```   
 	## intent:thankyou
-	- Thanks so much
-```
+	- Thanks so much!
 
 3. `core.py` contains the core of the chatbot as in `get_bot_response(message)` which returns the chatbot reply after recieving the user message		
 
-4. `server.py` contains the code that connects the Facebook messenger API with `ngrok` then `Flask server` to the La Liga chatbot which sends its responses back to the user using the python package `requests` that help send messages as http requests
+4. `app.py` contains the code that connects the Facebook messenger API with [`ngrok`](https://ngrok.com/) then `Flask server` to the La Liga chatbot which sends its responses back to the user through th [`Pymessenger`](https://github.com/davidchua/pymessenger)python wrapper
+
+
+
+
+## Some Notes on the behavior of the La Liga Chatbot
+
+-  
 
 
 
