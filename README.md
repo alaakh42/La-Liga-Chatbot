@@ -47,7 +47,7 @@ To install the project dependencies, run the following command
 	- this command create a directory `./models/current/nlu` where the model and its metadata resides
 	- then using `rasa_nlu.model.Interpreter` module I generate the intent of the message and its confidence ratio
 
-5. Using [spacy multi-language model](https://spacy.io/models/xx) I attempt to extract intities in the user message like `LOC` and `ORG` which will help me decide the most suitable reply to return to the user given the intent is `laliga_questions` offcourse
+5. Using [spacy multi-language model](https://spacy.io/models/xx) I attempt to extract intities in the user message like `LOC`, `ORG` and `PER` which will help me decide the most suitable reply to return to the user given the intent is `laliga_questions` offcourse
 	- Download the multi-language model using the following command:
 		`python -m spacy download xx_ent_wiki_sm`
 
@@ -59,9 +59,10 @@ To install the project dependencies, run the following command
 	- To build this crawler I used the following tools [wikipedia](https://pypi.org/project/wikipedia/) which is a MediaWiki API python wrapper and Beautifulsoup
 
 2. The intents examples are in `laliga_intents.md` where each intent example is written as the following example:
+```
 	## intent:thankyou
 	- Thanks so much!
-
+```
 3. `core.py` contains the core of the chatbot as in `get_bot_response(message)` which returns the chatbot reply after recieving the user message		
 
 4. `app.py` contains the code that connects the Facebook messenger API with [`ngrok`](https://ngrok.com/) then `Flask server` to the La Liga chatbot which sends its responses back to the user through th [`Pymessenger`](https://github.com/davidchua/pymessenger)python wrapper
