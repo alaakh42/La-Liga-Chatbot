@@ -4,6 +4,9 @@ This repo is an attemt to solve the Clubs history challenge!
 
 This chatbot can have a comprehensive conversation with the user while giving him/ her some information about the history of La Liga Clubs
 
+## UPDATE
+It seems that the App is Live and public but not yet verified by facebook whcih, means that no one can use it but Admin and Testers, I will work on this now
+
 ### Install Requirements
 
 To install the project dependencies, run the following command
