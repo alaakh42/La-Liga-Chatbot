@@ -7,7 +7,7 @@ from core import get_bot_response, get_bot_response_nonTexts
 app = Flask(__name__)
 
 ACCESS_TOKEN = 'EAAewPyxbNooBAGScp9vPUJiTZClCn6SFsA2PO6lCyTwouZCGn754vDrvh8ZCxqfp0agxUsG4nwdbfok1pmcZAG6AtNIs8gk87Ew04NhzfTmcD04qnFGg2EttihqVYVkOPwopTjOggyop4CGqQdIL5NZCI6isCJF8wtsZAal0kCrAZDZD'
-VERIFY_TOKEN = "AMmVd7vSvYBR75oe1/DfS/wB+rM+/aPAj4WxNl05PW8=" 
+VERIFY_TOKEN = "AMmVd7vSvYBR75oe1/DfS/wB+rM+/aPAj4WxNl05PW8="
 bot = Bot(ACCESS_TOKEN)
 
 #We will receive messages that Facebook sends our bot at this endpoint 

@@ -1,4 +1,5 @@
  # -*- coding: utf-8 -*-
+import re
 import urllib
 import requests
 import wikipedia
@@ -35,13 +36,21 @@ first_col = []
 teams_links = []
 summary = []
 history = []
-team_alt_names = []
+stadiums = []
+locations = []
+stadiums_capcity = []
 table = soup.find("table", style="text-align: left;")
 table_body = table.find("tbody")
 
 for row in table_body.find_all("tr")[1:]:
     first_item = row.find_all("td")[0]
+    second_item = row.find_all("td")[1]
+    third_item = row.find_all("td")[2]
+    forth_item = row.find_all("td")[3]
     first_col.append(first_item.text)
+    locations.append(second_item.text.strip().replace("\n",""))
+    stadiums.append(third_item.text.strip().replace("\n",""))
+    stadiums_capcity.append(int(re.sub(r'\[.*?\]', '', forth_item.text.replace(",","")[20:])))
 
     for link in first_item.find_all("a", href=True):
         print(first_item.text)
@@ -89,13 +98,18 @@ for row in table_body.find_all("tr")[1:]:
 df = pd.DataFrame({'Team': first_col,
      'Summary': summary,
      'History': history,
-     'Team_Page': teams_links
+     'Team_Page': teams_links,
+     'Location': locations,
+     'Stadium': stadiums,
+     'Stadiums_Capcity': stadiums_capcity
     })
+
 
 df.loc[df['History'].isnull(),'History'] = wikipedia.WikipediaPage(u'FC Barcelona').section(u'1899–1922: Beginnings'),\
                                            wikipedia.WikipediaPage(u'CD Leganés').section(u'History'),\
                                            wikipedia.WikipediaPage(u'Valencia CF').section(u'History')
 
+construct a different variation to the team/ club name
 Team_alt = pd.Series(['Deportivo Alaves',
             'Athletic Bilbao',
             'Atletico Madrid' ,
@@ -120,3 +134,4 @@ df['Team_alt'] = Team_alt.values
 
 print(df.head(2))
 df.to_csv("data/Teams_data.csv", encoding="utf-8", index=False)
+DF.to_csv("data/Teams_data_updates.csv", encoding="utf-8", index=False)
