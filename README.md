@@ -59,7 +59,7 @@ To install the project dependencies, run the following command
 
 ## Project WD Components
 
-1. `crawl.py` : the crawler that I used to crawl the teams data including (team name, team wikipedia page link, a summary about team and the history of the team)
+1. `crawler.py` : the crawler that I used to crawl the teams data including (team name, team wikipedia page link, a summary about team and the history of the team)
 	- To build this crawler I used the following tools [wikipedia](https://pypi.org/project/wikipedia/) which is a MediaWiki API python wrapper and Beautifulsoup
 
 2. The intents examples are in `laliga_intents.md` where each intent example is written as the following example:
