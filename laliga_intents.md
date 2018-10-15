@@ -316,6 +316,26 @@
 - can you tell me more about the city of Valencia?
 - can you tell me more about the city of Valladolid?
 - can you tell me more about the city of Villarreal?
+- tell me about the city of Alaves?
+- tell me about the city of Athletic Bilbao?
+- tell me about the city of Atlético Madrid?
+- tell me about the city of Barcelona?
+- tell me about the city of Celta Vigo?
+- tell me about the city of Eibar?
+- tell me about the city of Espanyol?
+- tell me about the city of Getafe?
+- tell me about the city of Girona?
+- tell me about the city of Huesca?
+- tell me about the city of Leganés?
+- tell me about the city of Levante?
+- tell me about the city of Rayo Vallecano?
+- tell me about the city of Real Betis?
+- tell me about the city of Real Madrid?
+- tell me about the city of Real Sociedad?
+- tell me about the city of Sevilla?
+- tell me about the city of Valencia?
+- tell me about the city of Valladolid?
+- tell me about the city of Villarreal?
 - tell me something about the city of Alaves
 - tell me something about the city of Athletic Bilbao
 - tell me something about the city of Atlético Madrid
@@ -427,3 +447,312 @@
 - cannot thank you enough 
 - i’m eternally grateful 
 - am really grateful
+
+
+## intent:stadium
+- What is the name of Alaves's stadium?
+- What is the name of Athletic Bilbao's stadium?
+- What is the name of Atlético Madrid's stadium?
+- What is the name of Barcelona's stadium?
+- What is the name of Celta Vigo's stadium?
+- What is the name of Eibar's stadium?
+- What is the name of Espanyol's stadium?
+- What is the name of Getafe's stadium?
+- What is the name of Girona's stadium?
+- What is the name of Huesca's stadium?
+- What is the name of Leganés's stadium?
+- What is the name of Levante 's stadium?
+- What is the name of Rayo Vallecano's stadium?
+- What is the name of Real Betis's stadium?
+- What is the name of Real Madrid's stadium?
+- What is the name of Real Sociedad's stadium?
+- What is the name of Sevilla's stadium?
+- What is the name of Valencia's stadium?
+- What is the name of Valladolid's stadium?
+- What is the name of Villarreal's stadium?
+- What is the Alaves team stadium called?
+- What is the Athletic Bilbao team stadium called?
+- What is the Atlético Madrid team stadium called?
+- What is the Barcelona team stadium called?
+- What is the Celta Vigo team stadium called?
+- What is the Eibar team stadium called?
+- What is the Espanyol team stadium called?
+- What is the Getafe team stadium called?
+- What is the Girona team stadium called?
+- What is the Huesca team stadium called?
+- What is the Leganés team stadium called?
+- What is the Levante  team stadium called?
+- What is the Rayo Vallecano team stadium called?
+- What is the Real Betis team stadium called?
+- What is the Real Madrid team stadium called?
+- What is the Real Sociedad team stadium called?
+- What is the Sevilla team stadium called?
+- What is the Valencia team stadium called?
+- What is the Valladolid team stadium called?
+- What is the Villarreal team stadium called?
+- What is Alaves stadium called?
+- What is Athletic Bilbao stadium called?
+- What is Atlético Madrid stadium called?
+- What is Barcelona stadium called?
+- What is Celta Vigo stadium called?
+- What is Eibar stadium called?
+- What is Espanyol stadium called?
+- What is Getafe stadium called?
+- What is Girona stadium called?
+- What is Huesca stadium called?
+- What is Leganés stadium called?
+- What is Levante  stadium called?
+- What is Rayo Vallecano stadium called?
+- What is Real Betis stadium called?
+- What is Real Madrid stadium called?
+- What is Real Sociedad stadium called?
+- What is Sevilla stadium called?
+- What is Valencia stadium called?
+- What is Valladolid stadium called?
+- What is Villarreal stadium called?
+- Can you tell me what is the name of Alaves stadium?
+- Can you tell me what is the name of Athletic Bilbao stadium?
+- Can you tell me what is the name of Atlético Madrid stadium?
+- Can you tell me what is the name of Barcelona stadium?
+- Can you tell me what is the name of Celta Vigo stadium?
+- Can you tell me what is the name of Eibar stadium?
+- Can you tell me what is the name of Espanyol stadium?
+- Can you tell me what is the name of Getafe stadium?
+- Can you tell me what is the name of Girona stadium?
+- Can you tell me what is the name of Huesca stadium?
+- Can you tell me what is the name of Leganés stadium?
+- Can you tell me what is the name of Levante  stadium?
+- Can you tell me what is the name of Rayo Vallecano stadium?
+- Can you tell me what is the name of Real Betis stadium?
+- Can you tell me what is the name of Real Madrid stadium?
+- Can you tell me what is the name of Real Sociedad stadium?
+- Can you tell me what is the name of Sevilla stadium?
+- Can you tell me what is the name of Valencia stadium?
+- Can you tell me what is the name of Valladolid stadium?
+- Can you tell me what is the name of Villarreal stadium?
+- Can you tell me the name of Alaves stadium?
+- Can you tell me the name of Athletic Bilbao stadium?
+- Can you tell me the name of Atlético Madrid stadium?
+- Can you tell me the name of Barcelona stadium?
+- Can you tell me the name of Celta Vigo stadium?
+- Can you tell me the name of Eibar stadium?
+- Can you tell me the name of Espanyol stadium?
+- Can you tell me the name of Getafe stadium?
+- Can you tell me the name of Girona stadium?
+- Can you tell me the name of Huesca stadium?
+- Can you tell me the name of Leganés stadium?
+- Can you tell me the name of Levante  stadium?
+- Can you tell me the name of Rayo Vallecano stadium?
+- Can you tell me the name of Real Betis stadium?
+- Can you tell me the name of Real Madrid stadium?
+- Can you tell me the name of Real Sociedad stadium?
+- Can you tell me the name of Sevilla stadium?
+- Can you tell me the name of Valencia stadium?
+- Can you tell me the name of Valladolid stadium?
+- Can you tell me the name of Villarreal stadium?
+
+
+## intent:stadium_capacity
+- What is the capcity of Alaves's stadium?
+- What is the capcity of Athletic Bilbao's stadium?
+- What is the capcity of Atlético Madrid's stadium?
+- What is the capcity of Barcelona's stadium?
+- What is the capcity of Celta Vigo's stadium?
+- What is the capcity of Eibar's stadium?
+- What is the capcity of Espanyol's stadium?
+- What is the capcity of Getafe's stadium?
+- What is the capcity of Girona's stadium?
+- What is the capcity of Huesca's stadium?
+- What is the capcity of Leganés's stadium?
+- What is the capcity of Levante 's stadium?
+- What is the capcity of Rayo Vallecano's stadium?
+- What is the capcity of Real Betis's stadium?
+- What is the capcity of Real Madrid's stadium?
+- What is the capcity of Real Sociedad's stadium?
+- What is the capcity of Sevilla's stadium?
+- What is the capcity of Valencia's stadium?
+- What is the capcity of Valladolid's stadium?
+- What is the capcity of Villarreal's stadium?
+- What is the capcity of Alaves team stadium?
+- What is the capcity of Athletic Bilbao team stadium?
+- What is the capcity of Atlético Madrid team stadium?
+- What is the capcity of Barcelona team stadium?
+- What is the capcity of Celta Vigo team stadium?
+- What is the capcity of Eibar team stadium?
+- What is the capcity of Espanyol team stadium?
+- What is the capcity of Getafe team stadium?
+- What is the capcity of Girona team stadium?
+- What is the capcity of Huesca team stadium?
+- What is the capcity of Leganés team stadium?
+- What is the capcity of Levante  team stadium?
+- What is the capcity of Rayo Vallecano team stadium?
+- What is the capcity of Real Betis team stadium?
+- What is the capcity of Real Madrid team stadium?
+- What is the capcity of Real Sociedad team stadium?
+- What is the capcity of Sevilla team stadium?
+- What is the capcity of Valencia team stadium?
+- What is the capcity of Valladolid team stadium?
+- What is the capcity of Villarreal team stadium?
+- How many people can the Alaves team stadium take?
+- How many people can the Athletic Bilbao team stadium take?
+- How many people can the Atlético Madrid team stadium take?
+- How many people can the Barcelona team stadium take?
+- How many people can the Celta Vigo team stadium take?
+- How many people can the Eibar team stadium take?
+- How many people can the Espanyol team stadium take?
+- How many people can the Getafe team stadium take?
+- How many people can the Girona team stadium take?
+- How many people can the Huesca team stadium take?
+- How many people can the Leganés team stadium take?
+- How many people can the Levante  team stadium take?
+- How many people can the Rayo Vallecano team stadium take?
+- How many people can the Real Betis team stadium take?
+- How many people can the Real Madrid team stadium take?
+- How many people can the Real Sociedad team stadium take?
+- How many people can the Sevilla team stadium take?
+- How many people can the Valencia team stadium take?
+- How many people can the Valladolid team stadium take?
+- How many people can the Villarreal team stadium take?
+- Can you tell me what is the capcity of Alaves's stadium?
+- Can you tell me what is the capcity of Athletic Bilbao's stadium?
+- Can you tell me what is the capcity of Atlético Madrid's stadium?
+- Can you tell me what is the capcity of Barcelona's stadium?
+- Can you tell me what is the capcity of Celta Vigo's stadium?
+- Can you tell me what is the capcity of Eibar's stadium?
+- Can you tell me what is the capcity of Espanyol's stadium?
+- Can you tell me what is the capcity of Getafe's stadium?
+- Can you tell me what is the capcity of Girona's stadium?
+- Can you tell me what is the capcity of Huesca's stadium?
+- Can you tell me what is the capcity of Leganés's stadium?
+- Can you tell me what is the capcity of Levante 's stadium?
+- Can you tell me what is the capcity of Rayo Vallecano's stadium?
+- Can you tell me what is the capcity of Real Betis's stadium?
+- Can you tell me what is the capcity of Real Madrid's stadium?
+- Can you tell me what is the capcity of Real Sociedad's stadium?
+- Can you tell me what is the capcity of Sevilla's stadium?
+- Can you tell me what is the capcity of Valencia's stadium?
+- Can you tell me what is the capcity of Valladolid's stadium?
+- Can you tell me what is the capcity of Villarreal's stadium?
+- Can you tell me how many people the Alaves stadium could take?
+- Can you tell me how many people the Athletic Bilbao stadium could take?
+- Can you tell me how many people the Atlético Madrid stadium could take?
+- Can you tell me how many people the Barcelona stadium could take?
+- Can you tell me how many people the Celta Vigo stadium could take?
+- Can you tell me how many people the Eibar stadium could take?
+- Can you tell me how many people the Espanyol stadium could take?
+- Can you tell me how many people the Getafe stadium could take?
+- Can you tell me how many people the Girona stadium could take?
+- Can you tell me how many people the Huesca stadium could take?
+- Can you tell me how many people the Leganés stadium could take?
+- Can you tell me how many people the Levante  stadium could take?
+- Can you tell me how many people the Rayo Vallecano stadium could take?
+- Can you tell me how many people the Real Betis stadium could take?
+- Can you tell me how many people the Real Madrid stadium could take?
+- Can you tell me how many people the Real Sociedad stadium could take?
+- Can you tell me how many people the Sevilla stadium could take?
+- Can you tell me how many people the Valencia stadium could take?
+- Can you tell me how many people the Valladolid stadium could take?
+- Can you tell me how many people the Villarreal stadium could take?
+
+
+## intent:club_location
+- What is the location of Alaves's stadium?
+- What is the location of Athletic Bilbao's stadium?
+- What is the location of Atlético Madrid's stadium?
+- What is the location of Barcelona's stadium?
+- What is the location of Celta Vigo's stadium?
+- What is the location of Eibar's stadium?
+- What is the location of Espanyol's stadium?
+- What is the location of Getafe's stadium?
+- What is the location of Girona's stadium?
+- What is the location of Huesca's stadium?
+- What is the location of Leganés's stadium?
+- What is the location of Levante 's stadium?
+- What is the location of Rayo Vallecano's stadium?
+- What is the location of Real Betis's stadium?
+- What is the location of Real Madrid's stadium?
+- What is the location of Real Sociedad's stadium?
+- What is the location of Sevilla's stadium?
+- What is the location of Valencia's stadium?
+- What is the location of Valladolid's stadium?
+- What is the location of Villarreal's stadium?
+- What is the location of Alaves team stadium called?
+- What is the location of Athletic Bilbao team stadium called?
+- What is the location of Atlético Madrid team stadium called?
+- What is the location of Barcelona team stadium called?
+- What is the location of Celta Vigo team stadium called?
+- What is the location of Eibar team stadium called?
+- What is the location of Espanyol team stadium called?
+- What is the location of Getafe team stadium called?
+- What is the location of Girona team stadium called?
+- What is the location of Huesca team stadium called?
+- What is the location of Leganés team stadium called?
+- What is the location of Levante  team stadium called?
+- What is the location of Rayo Vallecano team stadium called?
+- What is the location of Real Betis team stadium called?
+- What is the location of Real Madrid team stadium called?
+- What is the location of Real Sociedad team stadium called?
+- What is the location of Sevilla team stadium called?
+- What is the location of Valencia team stadium called?
+- What is the location of Valladolid team stadium called?
+- What is the location of Villarreal team stadium called?
+- Where is the Alaves stadium located?
+- Where is the Athletic Bilbao stadium located?
+- Where is the Atlético Madrid stadium located?
+- Where is the Barcelona stadium located?
+- Where is the Celta Vigo stadium located?
+- Where is the Eibar stadium located?
+- Where is the Espanyol stadium located?
+- Where is the Getafe stadium located?
+- Where is the Girona stadium located?
+- Where is the Huesca stadium located?
+- Where is the Leganés stadium located?
+- Where is the Levante  stadium located?
+- Where is the Rayo Vallecano stadium located?
+- Where is the Real Betis stadium located?
+- Where is the Real Madrid stadium located?
+- Where is the Real Sociedad stadium located?
+- Where is the Sevilla stadium located?
+- Where is the Valencia stadium located?
+- Where is the Valladolid stadium located?
+- Where is the Villarreal stadium located?
+- Can you tell me what is the location of Alaves team stadium?
+- Can you tell me what is the location of Athletic Bilbao team stadium?
+- Can you tell me what is the location of Atlético Madrid team stadium?
+- Can you tell me what is the location of Barcelona team stadium?
+- Can you tell me what is the location of Celta Vigo team stadium?
+- Can you tell me what is the location of Eibar team stadium?
+- Can you tell me what is the location of Espanyol team stadium?
+- Can you tell me what is the location of Getafe team stadium?
+- Can you tell me what is the location of Girona team stadium?
+- Can you tell me what is the location of Huesca team stadium?
+- Can you tell me what is the location of Leganés team stadium?
+- Can you tell me what is the location of Levante  team stadium?
+- Can you tell me what is the location of Rayo Vallecano team stadium?
+- Can you tell me what is the location of Real Betis team stadium?
+- Can you tell me what is the location of Real Madrid team stadium?
+- Can you tell me what is the location of Real Sociedad team stadium?
+- Can you tell me what is the location of Sevilla team stadium?
+- Can you tell me what is the location of Valencia team stadium?
+- Can you tell me what is the location of Valladolid team stadium?
+- Can you tell me what is the location of Villarreal team stadium?
+- Can you tell me where is the Alaves stadium?
+- Can you tell me where is the Athletic Bilbao stadium?
+- Can you tell me where is the Atlético Madrid stadium?
+- Can you tell me where is the Barcelona stadium?
+- Can you tell me where is the Celta Vigo stadium?
+- Can you tell me where is the Eibar stadium?
+- Can you tell me where is the Espanyol stadium?
+- Can you tell me where is the Getafe stadium?
+- Can you tell me where is the Girona stadium?
+- Can you tell me where is the Huesca stadium?
+- Can you tell me where is the Leganés stadium?
+- Can you tell me where is the Levante  stadium?
+- Can you tell me where is the Rayo Vallecano stadium?
+- Can you tell me where is the Real Betis stadium?
+- Can you tell me where is the Real Madrid stadium?
+- Can you tell me where is the Real Sociedad stadium?
+- Can you tell me where is the Sevilla stadium?
+- Can you tell me where is the Valencia stadium?
+- Can you tell me where is the Valladolid stadium?
+- Can you tell me where is the Villarreal stadium?
