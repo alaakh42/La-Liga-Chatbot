@@ -30,11 +30,14 @@ To install the project dependencies, run the following command
 
 1. Crawl the teams data by following the links of each team's wikipedia page in the [La Liga wikipedia page](https://en.wikipedia.org/wiki/La_Liga?oldformat=true)
 
-2. Write the inents examples under all these three given intents `great`,`laliga_questions`, `city_questions` and `thankyou`
+2. Write the inents examples under all these three given intents `great`, `laliga_questions`, `city_questions`, `thankyou`, `stadium`, `stadium_capacity` and `club_location`
 	- `great`: User is greating the bot
 	- `laliga_questions`: User's questions about the history of La Liga Clubs
 	- `city_questions`: User's questions about the city
 	- `thankyou`: User is thanking the bot
+	- `stadium`: User's questions about the name of a club's stadium
+	- `stadium_capacity`: User's questions about the capacity of a club's stadium
+	- `club_location`: User's questions about the location of a club's stadium
 	__Note__: That we could add as much intents as we want, this is something you decide based on the domain of your chatbot 
 
 3. Define the configuration of the [Rasa NLU pipeline](https://rasa.com/docs/nlu/choosing_pipeline/) in the `laliga_intents_config.yml` , I defined my NLU pipeline that builds the intent classifier as following:
@@ -78,11 +81,9 @@ To install the project dependencies, run the following command
 
 -  The chatbot is not resilient/ immune to spelling mistakes
 -  I am planning to implement a different way to decide on the most suitable reply to return which uses the wordvectors of the club names and compare it to the extracted entities from the user message/ question. Unfortunaltely due to memory limitstion I wasnot able to go all the way through this approach
-- I am also planning to build an end-to-end deep learning system that shoud be abe to convey more open conversation about the La Liga clubs including 
+- I am also planning to build an end-to-end deep learning system that shoud be able to convey more open conversation about the La Liga clubs including 
 	- ` What team is [player]playing for ?`
 	- ` List of players of [team]`
-	- `What is the stadium of [team] ?`
-	- ` What team is [stadium] of ?`
 	- ` Who is the coach of [team] ?`
 	- ` What team is coached by [coach] ?`
 	- ` Get fixtures of [team]`
