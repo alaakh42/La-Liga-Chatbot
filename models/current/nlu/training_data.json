@@ -1250,6 +1250,86 @@
         "intent": "city_questions"
       }, 
       {
+        "text": "tell me about the city of Alaves?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Athletic Bilbao?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Atlético Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Barcelona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Celta Vigo?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Eibar?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Espanyol?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Getafe?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Girona?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Huesca?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Leganés?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Levante?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Rayo Vallecano?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Real Betis?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Real Madrid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Real Sociedad?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Sevilla?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Valencia?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Valladolid?", 
+        "intent": "city_questions"
+      }, 
+      {
+        "text": "tell me about the city of Villarreal?", 
+        "intent": "city_questions"
+      }, 
+      {
         "text": "tell me something about the city of Alaves", 
         "intent": "city_questions"
       }, 
@@ -1680,6 +1760,1206 @@
       {
         "text": "am really grateful", 
         "intent": "thankyou"
+      }, 
+      {
+        "text": "What is the name of Alaves's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Athletic Bilbao's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Atlético Madrid's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Barcelona's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Celta Vigo's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Eibar's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Espanyol's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Getafe's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Girona's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Huesca's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Leganés's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Levante 's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Rayo Vallecano's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Real Betis's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Real Madrid's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Real Sociedad's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Sevilla's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Valencia's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Valladolid's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the name of Villarreal's stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Alaves team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Athletic Bilbao team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Atlético Madrid team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Barcelona team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Celta Vigo team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Eibar team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Espanyol team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Getafe team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Girona team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Huesca team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Leganés team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Levante  team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Rayo Vallecano team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Real Betis team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Real Madrid team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Real Sociedad team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Sevilla team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Valencia team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Valladolid team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the Villarreal team stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Alaves stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Athletic Bilbao stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Atlético Madrid stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Barcelona stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Celta Vigo stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Eibar stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Espanyol stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Getafe stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Girona stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Huesca stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Leganés stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Levante  stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Rayo Vallecano stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Real Betis stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Real Madrid stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Real Sociedad stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Sevilla stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Valencia stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Valladolid stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is Villarreal stadium called?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Alaves stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Athletic Bilbao stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Atlético Madrid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Barcelona stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Celta Vigo stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Eibar stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Espanyol stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Getafe stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Girona stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Huesca stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Leganés stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Levante  stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Rayo Vallecano stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Real Betis stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Real Madrid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Real Sociedad stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Sevilla stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Valencia stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Valladolid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me what is the name of Villarreal stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Alaves stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Athletic Bilbao stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Atlético Madrid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Barcelona stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Celta Vigo stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Eibar stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Espanyol stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Getafe stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Girona stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Huesca stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Leganés stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Levante  stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Rayo Vallecano stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Real Betis stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Real Madrid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Real Sociedad stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Sevilla stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Valencia stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Valladolid stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "Can you tell me the name of Villarreal stadium?", 
+        "intent": "stadium"
+      }, 
+      {
+        "text": "What is the capcity of Alaves's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Athletic Bilbao's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Atlético Madrid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Barcelona's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Celta Vigo's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Eibar's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Espanyol's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Getafe's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Girona's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Huesca's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Leganés's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Levante 's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Rayo Vallecano's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Betis's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Madrid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Sociedad's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Sevilla's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Valencia's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Valladolid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Villarreal's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Alaves team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Athletic Bilbao team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Atlético Madrid team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Barcelona team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Celta Vigo team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Eibar team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Espanyol team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Getafe team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Girona team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Huesca team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Leganés team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Levante  team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Rayo Vallecano team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Betis team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Madrid team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Real Sociedad team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Sevilla team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Valencia team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Valladolid team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the capcity of Villarreal team stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Alaves team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Athletic Bilbao team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Atlético Madrid team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Barcelona team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Celta Vigo team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Eibar team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Espanyol team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Getafe team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Girona team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Huesca team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Leganés team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Levante  team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Rayo Vallecano team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Real Betis team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Real Madrid team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Real Sociedad team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Sevilla team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Valencia team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Valladolid team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "How many people can the Villarreal team stadium take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Alaves's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Athletic Bilbao's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Atlético Madrid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Barcelona's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Celta Vigo's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Eibar's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Espanyol's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Getafe's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Girona's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Huesca's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Leganés's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Levante 's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Rayo Vallecano's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Real Betis's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Real Madrid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Real Sociedad's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Sevilla's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Valencia's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Valladolid's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me what is the capcity of Villarreal's stadium?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Alaves stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Athletic Bilbao stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Atlético Madrid stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Barcelona stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Celta Vigo stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Eibar stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Espanyol stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Getafe stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Girona stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Huesca stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Leganés stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Levante  stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Rayo Vallecano stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Real Betis stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Real Madrid stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Real Sociedad stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Sevilla stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Valencia stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Valladolid stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "Can you tell me how many people the Villarreal stadium could take?", 
+        "intent": "stadium_capacity"
+      }, 
+      {
+        "text": "What is the location of Alaves's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Athletic Bilbao's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Atlético Madrid's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Barcelona's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Celta Vigo's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Eibar's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Espanyol's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Getafe's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Girona's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Huesca's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Leganés's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Levante 's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Rayo Vallecano's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Betis's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Madrid's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Sociedad's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Sevilla's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Valencia's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Valladolid's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Villarreal's stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Alaves team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Athletic Bilbao team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Atlético Madrid team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Barcelona team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Celta Vigo team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Eibar team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Espanyol team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Getafe team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Girona team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Huesca team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Leganés team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Levante  team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Rayo Vallecano team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Betis team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Madrid team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Real Sociedad team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Sevilla team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Valencia team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Valladolid team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "What is the location of Villarreal team stadium called?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Alaves stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Athletic Bilbao stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Atlético Madrid stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Barcelona stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Celta Vigo stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Eibar stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Espanyol stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Getafe stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Girona stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Huesca stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Leganés stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Levante  stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Rayo Vallecano stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Real Betis stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Real Madrid stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Real Sociedad stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Sevilla stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Valencia stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Valladolid stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Where is the Villarreal stadium located?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Alaves team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Athletic Bilbao team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Atlético Madrid team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Barcelona team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Celta Vigo team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Eibar team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Espanyol team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Getafe team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Girona team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Huesca team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Leganés team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Levante  team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Rayo Vallecano team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Real Betis team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Real Madrid team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Real Sociedad team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Sevilla team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Valencia team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Valladolid team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me what is the location of Villarreal team stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Alaves stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Athletic Bilbao stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Atlético Madrid stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Barcelona stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Celta Vigo stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Eibar stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Espanyol stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Getafe stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Girona stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Huesca stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Leganés stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Levante  stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Rayo Vallecano stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Real Betis stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Real Madrid stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Real Sociedad stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Sevilla stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Valencia stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Valladolid stadium?", 
+        "intent": "club_location"
+      }, 
+      {
+        "text": "Can you tell me where is the Villarreal stadium?", 
+        "intent": "club_location"
       }
     ], 
     "entity_synonyms": [], 

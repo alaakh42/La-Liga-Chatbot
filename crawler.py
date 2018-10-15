@@ -134,4 +134,4 @@ df['Team_alt'] = Team_alt.values
 
 print(df.head(2))
 df.to_csv("data/Teams_data.csv", encoding="utf-8", index=False)
-DF.to_csv("data/Teams_data_updates.csv", encoding="utf-8", index=False)
+# df.to_csv("data/Teams_data_updates.csv", encoding="utf-8", index=False)
